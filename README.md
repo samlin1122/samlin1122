@@ -155,13 +155,12 @@ Driven by curiosity and passion for new technology around me, I strive to be a f
  -->
 
 <p align='center'>
-    <a href='https://github.com/samlin1122/point-pro'>
+    &nbsp;&nbsp;&nbsp;<a href='https://github.com/samlin1122/point-pro'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=samlin1122&repo=point-pro&theme=vue-dark' alt='point-pro-web' />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href='https://github.com/emily40830/point-pro-backend'>
+    </a>&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;<a href='https://github.com/emily40830/point-pro-backend'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=emily40830&repo=point-pro-backend&theme=vue-dark' alt='point-pro-backend' />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
