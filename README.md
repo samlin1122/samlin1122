@@ -11,7 +11,7 @@
 ### Sam Lin
 
 Hi, I’m Sam, a web developer based in New Taipei City.  
-I’m a Front-End developer with 3+ years of experience in Web development.  
+I’m a Front-End developer with 4+ years of experience in Web development.  
 Driven by curiosity and passion for new technology around me, I strive to be a full-stack developer.  
 
 
@@ -56,15 +56,22 @@ Driven by curiosity and passion for new technology around me, I strive to be a f
         /></a>
         <a href="https://tailwindcss.com/"
           ><img
-            src="https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74"
+            src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu"
             alt="tailwindcss"
             width="50"
             height="50"
         /></a>
         <a href="https://bulma.io/"
-          ><img src="https://image.pngaaa.com/787/6130787-middle.png" alt="bulma" width="50" height="50"
+          ><img src="https://styles.redditmedia.com/t5_11td24/styles/communityIcon_vg0jwp92i2851.png" alt="bulma" width="50" height="50"
         /></a>
         <br />
+        <a href="https://vitejs.dev/guide/"
+          ><img
+            src="https://www.svgrepo.com/show/374167/vite.svg"
+            alt="vite"
+            width="50"
+            height="50"
+        /></a>
         <a href="https://vuejs.org/"
           ><img
             src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png"
@@ -94,11 +101,12 @@ Driven by curiosity and passion for new technology around me, I strive to be a f
         /></a>
         <a href="https://www.gatsbyjs.com/"
           ><img
-            src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667"
+            src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gatsby-js-icon.png"
             alt="gatsby"
             width="50"
             height="50"
         /></a>
+        <br />
         <a href="https://nodejs.org/en"
           ><img
             src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png"
@@ -114,7 +122,7 @@ Driven by curiosity and passion for new technology around me, I strive to be a f
             height="50"
         /></a>
         <a href="https://socket.io/"
-          ><img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" alt="socketio" width="50" height="50"
+          ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png" alt="socketio" width="50" height="50"
         /></a>
         <a href="https://github.com/"
           ><img
@@ -149,7 +157,7 @@ Driven by curiosity and passion for new technology around me, I strive to be a f
 
 ## 👇 Current Side Project
 
->We are collaborating with industry colleagues to develop a restaurant POS system, which includes frontend and backend development as well as process design. This is a completely new and comprehensive project that will be completed by the end of June. Stay tuned for more updates!
+>We are collaborating with industry colleagues to develop a restaurant POS system, which includes frontend and backend development as well as process design. This is a completely new and comprehensive project that was completed by June 2023.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samlin1122&hide=stars&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/samlin1122)
  -->
