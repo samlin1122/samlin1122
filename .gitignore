@@ -1,0 +1,24 @@
+# Claude Code brainstorming visual companion
+.superpowers/
+docs/
+
+# Next.js
+/.next/
+/out/
+/build
+next-env.d.ts
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# misc
+.DS_Store
+*.pem
+.env*
+!.env.example
+
+# vercel / typescript
+.vercel
+*.tsbuildinfo
