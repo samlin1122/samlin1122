@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "resume": "Resume"
+  },
+  "common": {
+    "viewWork": "View Work",
+    "getInTouch": "Get in touch",
+    "backHome": "Back home",
+    "notFound": "This page could not be found."
+  },
+  "home": {
+    "aboutLabel": "About",
+    "experienceLabel": "Experience",
+    "contactLabel": "Contact"
+  },
+  "work": {
+    "title": "Selected Work",
+    "subtitle": "Client and production projects I've built."
+  }
+}

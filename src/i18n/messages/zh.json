@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "首頁",
+    "work": "作品",
+    "resume": "履歷"
+  },
+  "common": {
+    "viewWork": "瀏覽作品",
+    "getInTouch": "與我聯繫",
+    "backHome": "回首頁",
+    "notFound": "找不到這個頁面。"
+  },
+  "home": {
+    "aboutLabel": "關於",
+    "experienceLabel": "經歷",
+    "contactLabel": "聯繫"
+  },
+  "work": {
+    "title": "精選作品",
+    "subtitle": "我打造過的客戶與實戰專案。"
+  }
+}
