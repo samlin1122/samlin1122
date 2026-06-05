@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function GlobalNotFound() {
   return (
     <html lang="en">
@@ -14,9 +16,9 @@ export default function GlobalNotFound() {
       >
         <div style={{ textAlign: "center" }}>
           <h1 style={{ fontSize: "3rem", color: "#e8845b" }}>404</h1>
-          <a href="/" style={{ color: "#e8845b" }}>
+          <Link href="/" style={{ color: "#e8845b" }}>
             Back home
-          </a>
+          </Link>
         </div>
       </body>
     </html>
