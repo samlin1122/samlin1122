@@ -1,5 +1,6 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import type { Locale } from "@/content/profile";
+import { profile } from "@/content/profile";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Experience from "@/components/sections/Experience";
@@ -18,6 +19,19 @@ export default async function HomePage({
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Person",
+            name: profile.name,
+            email: `mailto:${profile.email}`,
+            jobTitle: "Senior Frontend Developer",
+            sameAs: [profile.socials.github, profile.socials.linkedin],
+          }),
+        }}
+      />
       <Hero locale={loc} />
       <Reveal>
         <About locale={loc} label={t("aboutLabel")} />
