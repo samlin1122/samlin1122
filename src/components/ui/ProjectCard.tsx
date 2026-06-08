@@ -20,18 +20,22 @@ export default function ProjectCard({
       }`}
     >
       <div className="md:w-3/5">
-        <div className="overflow-hidden rounded-lg border border-line bg-surface">
+        <div className="rounded-lg bg-surface">
           <Image
             src={project.image}
             alt={project.title}
             width={800}
             height={500}
-            className="h-auto w-full object-cover transition duration-300 hover:scale-105"
+            className="rounded-lg h-auto w-full object-cover blur-[2px] grayscale-90 transition duration-300 hover:scale-105 hover:blur-[0px] hover:grayscale-0 motion-reduce:transition-none motion-reduce:hover:scale-100"
           />
         </div>
       </div>
-      <div className={`md:w-2/5 ${reversed ? "md:text-left" : "md:text-right"}`}>
-        <p className="font-mono text-xs uppercase text-accent">{project.category}</p>
+      <div
+        className={`flex flex-col md:w-2/5 ${
+          reversed ? "md:items-start md:text-left" : "md:items-end md:text-right"
+        }`}
+      >
+        <p className="font-mono text-xs uppercase text-accent">{project.category.join(" / ")}</p>
         <h3 className="mt-2 font-display text-2xl font-semibold">
           {link ? (
             <a href={link} target="_blank" rel="noreferrer" className="hover:text-accent">
@@ -41,7 +45,7 @@ export default function ProjectCard({
             project.title
           )}
         </h3>
-        <div className="mt-3 rounded-lg border border-line bg-surface p-4 text-left text-sm text-muted">
+        <div className="relative z-10 mt-3 w-full rounded-lg border border-line bg-surface p-4 text-left text-sm text-muted shadow-lg md:w-[130%]">
           <p>{project.description[locale]}</p>
           <ul className="mt-2 space-y-1">
             {project.highlights.map((h, i) => (

@@ -8,7 +8,7 @@ export type SkillGroup = {
 export const skillGroups: SkillGroup[] = [
   {
     label: { zh: "語言", en: "Languages" },
-    items: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
+    items: ["HTML", "CSS", "JavaScript", "TypeScript"],
   },
   {
     label: { zh: "前端", en: "Frontend" },
@@ -24,7 +24,7 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     label: { zh: "後端", en: "Backend" },
-    items: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Prisma", "Redis"],
+    items: ["Node.js", "Express", "NestJS", "PostgreSQL", "MongoDB", "Prisma"],
   },
   {
     label: { zh: "AI / LLM", en: "AI / LLM" },
