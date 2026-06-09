@@ -19,8 +19,8 @@ with hands-on experience in AI-powered features and integrations.
 
 | Project | Description | Tech | Role | Links |
 |---|---|---|---|---|
-| **point-pro** | Full-stack restaurant POS — ordering, reservations, real-time sync, payments | React · TypeScript · Express · Prisma · PostgreSQL · Socket.io | Frontend Lead | [Repo](https://github.com/samlin1122/point-pro) · [Demo](https://point-pro.vercel.app/) |
-| **fubon-land** | Real estate portal — project showcase, bilingual CMS, API backend | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth | Full-stack | [Demo](https://www.fubonland.com.tw/) |
+| **point-pro** | Full-stack restaurant POS — ordering, reservations, real-time sync, payments | React · TypeScript · Express · Prisma · PostgreSQL · Socket.io | Full-stack | [Repo](https://github.com/samlin1122/point-pro) · [Demo](https://point-pro.vercel.app/) |
+| **fubon-land** | Real estate portal — project showcase, bilingual CMS, API backend | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth | Frontend Lead | [Demo](https://www.fubonland.com.tw/) |
 | **portfolio** | This portfolio site — bilingual, multi-locale, statically generated | Next.js · TypeScript · Tailwind | Solo | [Repo](https://github.com/samlin1122/samlin1122) |
 
 ---
