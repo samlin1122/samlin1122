@@ -2,14 +2,14 @@
 
 <p align="left">
   <a href="https://github.com/samlin1122"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:samlin1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:zhlin1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zhlin1122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://samlin1122.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ### Senior Frontend Developer · Backend & AI Hands-on
 
-Building production web apps for **7+ years**.
+Building production web apps **since 2019**.
 Driven by curiosity for new technology — comfortable across the full stack,
 with hands-on experience in AI-powered features and integrations.
 
@@ -19,9 +19,9 @@ with hands-on experience in AI-powered features and integrations.
 
 | Project | Description | Tech | Role | Links |
 |---|---|---|---|---|
-| **point-pro** | Restaurant POS system with order management and analytics | React · TypeScript · Express · MySQL | Frontend Lead | [Repo](https://github.com/samlin1122/point-pro) |
-| **&lt;project-2&gt;** | &lt;one-line description&gt; | &lt;stack&gt; | &lt;your role&gt; | [Repo](#) · [Demo](#) |
-| **&lt;project-3&gt;** | &lt;one-line description&gt; | &lt;stack&gt; | &lt;your role&gt; | [Repo](#) · [Demo](#) |
+| **point-pro** | Full-stack restaurant POS — ordering, reservations, real-time sync, payments | React · TypeScript · Express · Prisma · PostgreSQL · Socket.io | Frontend Lead | [Repo](https://github.com/samlin1122/point-pro) · [Demo](https://point-pro.vercel.app/) |
+| **fubon-land** | Real estate portal — project showcase, bilingual CMS, API backend | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth | Full-stack | [Demo](https://www.fubonland.com.tw/) |
+| **portfolio** | This portfolio site — bilingual, multi-locale, statically generated | Next.js · TypeScript · Tailwind | Solo | [Repo](https://github.com/samlin1122/samlin1122) |
 
 ---
 
@@ -54,14 +54,16 @@ with hands-on experience in AI-powered features and integrations.
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **AI / LLM**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4ECDC4?style=flat-square)
@@ -93,5 +95,5 @@ with hands-on experience in AI-powered features and integrations.
 
 <p align="left">
   <em>Open to remote opportunities and freelance collaborations.</em><br/>
-  📬 <a href="mailto:samlin1122@gmail.com">samlin1122@gmail.com</a>
+  📬 <a href="mailto:zhlin1122@gmail.com">zhlin1122@gmail.com</a>
 </p>

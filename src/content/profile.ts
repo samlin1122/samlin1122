@@ -17,7 +17,7 @@ export const profile = {
     en: `I've shipped production web apps for ${yearsOfExperience}+ years — comfortable across the full stack, driven by curiosity for new tech, and hands-on with AI-powered features and integrations.`,
   } satisfies LocalizedText,
   email: "zhlin1122@gmail.com",
-  resumeUrl: "/resume/sam-lin-cv.pdf",
+  resumeUrl: "https://docs.google.com/document/d/1TXq6JqcOfig6stJ06x5agzAwsPENW9Nqhw7YPgm0ZDA/edit?tab=t.0",
   socials: {
     github: "https://github.com/samlin1122",
     linkedin: "https://www.linkedin.com/in/zhlin1122/",

@@ -28,7 +28,7 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     label: { zh: "AI / LLM", en: "AI / LLM" },
-    items: ["OpenAI", "Claude", "LangChain", "RAG", "Embeddings"],
+    items: ["OpenAI", "Claude Code", "Gemini", "Ollama", "LangChain", "RAG", "Embeddings"],
   },
   {
     label: { zh: "DevOps", en: "DevOps" },
