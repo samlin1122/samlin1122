@@ -23,3 +23,8 @@ next-env.d.ts
 # vercel / typescript
 .vercel
 *.tsbuildinfo
+# raw source screenshots (pre-optimization)
+_raw_screenshots/
+
+# Playwright MCP temp output
+.playwright-mcp/

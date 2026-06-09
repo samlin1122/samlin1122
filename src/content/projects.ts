@@ -54,6 +54,23 @@ export const projects: Project[] = [
     image: "/images/work/trailwatch.png",
   },
   {
+    slug: "fubon-land",
+    title: "富邦建設 Fubon Land",
+    category: ["web", "cms", "backend"],
+    description: {
+      zh: "富邦建設不動產入口平台，含建案展示前台、雙語內容後台 CMS 與 Next.js API 後端。",
+      en: "Real estate portal for Fubon's property arm — a project-showcase front-end, a bilingual content CMS, and a Next.js API backend.",
+    },
+    highlights: [
+      { zh: "前台以 Next.js 14 (App Router) + MUI + Tailwind 打造，含建案搜尋篩選、會員專區與預約賞屋流程。", en: "Next.js 14 (App Router) front-end with MUI + Tailwind — project search/filter, a member area, and a house-viewing booking flow." },
+      { zh: "後端以 Next.js API Routes + Prisma (PostgreSQL) 打造，NextAuth 多元登入 (Google／Facebook／LINE) 與角色權限控管。", en: "Next.js API Routes + Prisma (PostgreSQL) backend, with NextAuth multi-provider login (Google/Facebook/LINE) and role-based access control." },
+      { zh: "後台 CMS 以 MUI X Data Grid 管理多模組內容，整合 CKEditor 富文本、HLS 串流影片與 i18next 繁／英雙語。", en: "MUI X Data Grid CMS for multi-module content, with CKEditor rich text, HLS video streaming, and TC/EN i18next." },
+    ],
+    techs: ["Next", "TypeScript", "Material UI", "Tailwind", "Prisma", "PostgreSQL", "NextAuth", "i18next"],
+    href: "https://www.fubonland.com.tw/",
+    image: "/images/work/fubon-land.png",
+  },
+  {
     slug: "ura-campaign",
     title: "市區重建局 - URA",
     category: ["web", "cms"],
