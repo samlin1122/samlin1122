@@ -1,6 +1,6 @@
 import type { LocalizedText } from "./profile";
 
-export type ProjectCategory = "web" | "cms" | "backend" | "spa" | "side product";
+export type ProjectCategory = "web" | "cms" | "backend" | "spa" | "side project";
 
 export type Project = {
   slug: string;
@@ -19,7 +19,7 @@ export const projects: Project[] = [
   {
     slug: "point-pro",
     title: "Point Pro",
-    category: ["web", "backend", "side product"],
+    category: ["web", "backend", "side project"],
     description: {
       zh: "全端餐廳 POS 系統，含網頁與手機點餐、線上訂位、即時同步與多元金流支付。",
       en: "Full-stack restaurant POS — web and mobile ordering, online reservations, real-time sync, and multiple payment methods.",

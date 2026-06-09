@@ -13,6 +13,8 @@ export default function ProjectCard({
   reversed: boolean;
 }) {
   const link = project.href ?? project.repo;
+  const isSideProject = project.category.includes("side project");
+  const categories = project.category.filter((c) => c !== "side project");
   return (
     <article
       className={`flex flex-col gap-6 md:items-center ${
@@ -20,7 +22,12 @@ export default function ProjectCard({
       }`}
     >
       <div className="md:w-3/5">
-        <div className="rounded-lg bg-surface">
+        <div className="relative rounded-lg bg-surface">
+          {isSideProject && (
+            <span className="absolute left-3 top-3 z-10 rounded-full bg-accent px-3 py-1 font-mono text-xs font-medium uppercase tracking-wide text-bg shadow-lg">
+              Side Project
+            </span>
+          )}
           <Image
             src={project.image}
             alt={project.title}
@@ -35,7 +42,7 @@ export default function ProjectCard({
           reversed ? "md:items-start md:text-left" : "md:items-end md:text-right"
         }`}
       >
-        <p className="font-mono text-xs uppercase text-accent">{project.category.join(" / ")}</p>
+        <p className="font-mono text-xs uppercase text-accent">{categories.join(" / ")}</p>
         <h3 className="mt-2 font-display text-2xl font-semibold">
           {link ? (
             <a href={link} target="_blank" rel="noreferrer" className="hover:text-accent">
