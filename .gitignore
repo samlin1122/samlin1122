@@ -1,0 +1,30 @@
+# Claude Code
+.claude/
+.superpowers/
+docs/
+
+# Next.js
+/.next/
+/out/
+/build
+next-env.d.ts
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# misc
+.DS_Store
+*.pem
+.env*
+!.env.example
+
+# vercel / typescript
+.vercel
+*.tsbuildinfo
+# raw source screenshots (pre-optimization)
+_raw_screenshots/
+
+# Playwright MCP temp output
+.playwright-mcp/

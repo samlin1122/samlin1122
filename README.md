@@ -1,174 +1,99 @@
-### Hi, there 👋  
+<h1 align="left">Hi, I'm Sam Lin 👋</h1>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fsamlin1122&query=%24.count)](https://github.com/samlin1122)&nbsp;[![Gmail](https://shields.io/badge/Gmail-flat?logo=gmail&color=ffffff)](mailto:samlin1122@gmail.com)&nbsp;[![Linkin](https://shields.io/badge/LinkedIn-flat?logo=LinkedIn&color=2261BA)](https://www.linkedin.com/in/zhlin1122/)  
-
----
-
-<p>
-  <img width="300" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlin1122&layout=compact&theme=vue-dark">
-</p>  
-   
-### Sam Lin
-
-Hi, I’m Sam, a web developer based in New Taipei City.  
-I’m a Front-End developer with 4+ years of experience in Web development.  
-Driven by curiosity and passion for new technology around me, I strive to be a full-stack developer.  
-
-
----
-
-## 🧰 &nbsp;My toolbox
-<p align="center">
-        <img
-          src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"
-          alt="htnl5"
-          width="50"
-          height="50"
-        />
-        <img
-          src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"
-          alt="css3"
-          width="50"
-          height="50"
-        />
-        <a href="https://sass-lang.com/"
-          ><img
-            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png"
-            alt="sass"
-            width="50"
-            height="50"
-        /></a>
-        <img
-          src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"
-          alt="js"
-          width="50"
-          height="50"
-        />
-        <a href="https://www.typescriptlang.org/"
-          ><img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
-            alt="typescript"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://mui.com/"
-          ><img src="https://mui.com/static/logo.png" alt="materialUI" width="50" height="50"
-        /></a>
-        <a href="https://tailwindcss.com/"
-          ><img
-            src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu"
-            alt="tailwindcss"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://bulma.io/"
-          ><img src="https://styles.redditmedia.com/t5_11td24/styles/communityIcon_vg0jwp92i2851.png" alt="bulma" width="50" height="50"
-        /></a>
-        <br />
-        <a href="https://vitejs.dev/guide/"
-          ><img
-            src="https://www.svgrepo.com/show/374167/vite.svg"
-            alt="vite"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://vuejs.org/"
-          ><img
-            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png"
-            alt="vue"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://nuxtjs.org/"
-          ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png"
-            alt="nuxt"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://react.dev/"
-          ><img
-            src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"
-            alt="React.js"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://nextjs.org/"
-          ><img
-            src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-            alt="next"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://www.gatsbyjs.com/"
-          ><img
-            src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gatsby-js-icon.png"
-            alt="gatsby"
-            width="50"
-            height="50"
-        /></a>
-        <br />
-        <a href="https://nodejs.org/en"
-          ><img
-            src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png"
-            alt="node"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://expressjs.com/"
-          ><img
-            src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"
-            alt="express"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://socket.io/"
-          ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png" alt="socketio" width="50" height="50"
-        /></a>
-        <a href="https://github.com/"
-          ><img
-            src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-512.png"
-            alt="github"
-            width="50"
-            height="50" /></a
-        ><a href="https://bitbucket.org/"
-          ><img
-            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png"
-            alt="bitbucket"
-            width="50"
-            height="50" /></a
-        ><a href="https://trello.com/home"
-          ><img
-            src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png"
-            alt="trello"
-            width="50"
-            height="50" /></a
-        ><a href="https://www.atlassian.com/software/jira"
-          ><img
-            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/184_Jira_logo_logos-512.png"
-            alt="jira"
-            width="50"
-            height="50"
-        /></a>
-      </p>
-<!-- <a href=""><img  src="" alt="" width="50" height="50"/></a> -->
-
-
----
-
-## 👇 Current Side Project
-
->We are collaborating with industry colleagues to develop a restaurant POS system, which includes frontend and backend development as well as process design. This is a completely new and comprehensive project that was completed by June 2023.
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samlin1122&hide=stars&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/samlin1122)
- -->
-
-<p align='center'>
-    &nbsp;&nbsp;&nbsp;<a href='https://github.com/samlin1122/point-pro'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=samlin1122&repo=point-pro&theme=vue-dark' alt='point-pro-web' />
-    </a>&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;<a href='https://github.com/emily40830/point-pro-backend'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=emily40830&repo=point-pro-backend&theme=vue-dark' alt='point-pro-backend' />
-    </a>&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <a href="https://github.com/samlin1122"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:zhlin1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zhlin1122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://samlin1122.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
+### Senior Frontend Developer · Backend & AI Hands-on
 
+Building production web apps **since 2019**.
+Driven by curiosity for new technology — comfortable across the full stack,
+with hands-on experience in AI-powered features and integrations.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Role | Links |
+|---|---|---|---|---|
+| **point-pro** | Full-stack restaurant POS — ordering, reservations, real-time sync, payments | React · TypeScript · Express · Prisma · PostgreSQL · Socket.io | Frontend Lead | [Repo](https://github.com/samlin1122/point-pro) · [Demo](https://point-pro.vercel.app/) |
+| **fubon-land** | Real estate portal — project showcase, bilingual CMS, API backend | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth | Full-stack | [Demo](https://www.fubonland.com.tw/) |
+| **portfolio** | This portfolio site — bilingual, multi-locale, statically generated | Next.js · TypeScript · Tailwind | Solo | [Repo](https://github.com/samlin1122/samlin1122) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Styling**  
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**State & Data**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI / LLM**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-4ECDC4?style=flat-square)
+
+**DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Collaboration**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samlin1122&show_icons=true&count_private=true&hide_border=true&theme=vue-dark&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlin1122&layout=compact&hide_border=true&theme=vue-dark&langs_count=8" height="165" />
+</p>
+
+---
+
+<p align="left">
+  <em>Open to remote opportunities and freelance collaborations.</em><br/>
+  📬 <a href="mailto:zhlin1122@gmail.com">zhlin1122@gmail.com</a>
+</p>
