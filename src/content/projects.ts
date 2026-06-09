@@ -50,11 +50,12 @@ export const projects: Project[] = [
       { zh: "後台 CMS 以 Vite + React + Tailwind 打造，含 CKEditor 與資料表格。", en: "Vite + React + Tailwind CMS with CKEditor and data grids." },
     ],
     techs: ["Remix", "NestJS", "PostgreSQL", "Mapbox GL", "Redux Toolkit", "i18next"],
+    href: "https://www.trailwatch.hk/",
     image: "/images/work/trailwatch.png",
   },
   {
     slug: "ura-campaign",
-    title: "URA Campaign",
+    title: "市區重建局 - URA",
     category: ["web", "cms"],
     description: {
       zh: "市區重建局樓宇復修推廣活動平台，含多輪互動問答遊戲、獎品兌換、後台管理與後端 API。",
@@ -66,6 +67,7 @@ export const projects: Project[] = [
       { zh: "React + Vite + Tailwind + Zustand，i18next 遠端翻譯，Firebase Hosting／Auth。", en: "React + Vite + Tailwind + Zustand, i18next remote translations, Firebase Hosting/Auth." },
     ],
     techs: ["React", "Vite", "Tailwind", "Express", "PostgreSQL", "i18next", "Firebase"],
+    href: "https://www.ura.org.hk/tc",
     image: "/images/work/ura-campaign.png",
   },
   {
@@ -82,6 +84,7 @@ export const projects: Project[] = [
       { zh: "React + Vite + MUI，前台以 Zustand、後台以 SWR 管理狀態。", en: "React + Vite + MUI; Zustand on the front-end, SWR in the CMS." },
     ],
     techs: ["React", "Vite", "Material UI", "Zustand", "SWR"],
+    href: "https://hkfyg.org.hk/en/hkfyg-homepage-2/",
     image: "/images/work/hkfyg-timeslot.png",
   },
   {
@@ -94,10 +97,9 @@ export const projects: Project[] = [
     },
     highlights: [
       { zh: "12+ 內容模組以 React + Vite + MUI Data Grid 打造，支援多語資料模型。", en: "12+ content modules built with React + Vite + MUI Data Grid over a multilingual data model." },
-      { zh: "CKEditor 富文本編輯與圖片上傳（presigned URL）。", en: "CKEditor rich-text editing with presigned-URL image uploads." },
-      { zh: "Axios 攔截器實作 401 靜默 token 刷新。", en: "Axios interceptors with silent token refresh on 401." },
     ],
-    techs: ["React", "Vite", "Material UI", "SWR", "CKEditor"],
+    techs: ["React", "Vite", "Material UI", "SWR"],
+    href: "https://www.luncheonstar.com.hk/",
     image: "/images/work/luncheon-star.png",
   },
   {
@@ -114,12 +116,13 @@ export const projects: Project[] = [
       { zh: "React + Vite 前後分離，部署於 gov.hk 正式環境。", en: "React + Vite, decoupled front/back, deployed to a gov.hk production environment." },
     ],
     techs: ["React", "Vite", "Chakra UI", "Material UI", "Zustand", "i18next"],
+    href: "https://striveandrise.gov.hk/",
     image: "/images/work/hkfyg-strive-and-rise.png",
   },
   {
     slug: "livvy",
-    title: "Livvy 智慧旅宿",
-    category: ["web", "cms"],
+    title: "Livvy",
+    category: ["cms"],
     description: {
       zh: "Livvy 智慧旅宿平台，含活動、訂位、電商與會員制後台、會員自助註冊前台與 Node 後端微服務。",
       en: "Livvy smart-hotel platform — a back-office for events, bookings, e-commerce, and membership; a member self-registration front-end; and Node backend services.",
@@ -129,6 +132,7 @@ export const projects: Project[] = [
       { zh: "前台以 Vite + React + i18next 提供註冊→驗證→問卷→支付的三語流程。", en: "Vite + React + i18next front-end: a trilingual register → verify → survey → pay flow." },
     ],
     techs: ["Next", "React", "Material UI", "Express", "Sequelize", "Elasticsearch", "i18next"],
+    href: "https://apps.apple.com/hk/app/livvy/id6651836644",
     image: "/images/work/livvy.png",
   },
   {
@@ -143,28 +147,12 @@ export const projects: Project[] = [
       { zh: "以 Next.js 打造管理後台 + 掃碼簽到雙端，支援多品牌雙網域。", en: "Next.js admin portal plus a QR check-in client, serving multiple brands across separate domains." },
     ],
     techs: ["Next", "TypeScript", "Material UI"],
+    href: "https://www.chinachemgroup.com/",
     image: "/images/work/chinachem-eaa.png",
   },
   {
-    slug: "trailwatch-event",
-    title: "Coastal Trail Challenge",
-    category: ["web", "cms", "backend"],
-    description: {
-      zh: "「香港島沿岸遠足挑戰賽」線上報名、捐款、成績與證書平台，含後台與 API。",
-      en: "Online registration, donation, results, and certificates for the Hong Kong Island Coastal Trail Challenge — with a back-office and API.",
-    },
-    highlights: [
-      { zh: "Next.js SSG 三語報名前台，整合 Stripe 線上支付。", en: "Next.js SSG trilingual registration front-end with Stripe payments." },
-      { zh: "Express + Sequelize 後端，Puppeteer 產生 PDF 證書、SendGrid 排隊寄送，部署於 GCP Cloud Run。", en: "Express + Sequelize backend generating PDF certificates via Puppeteer, queued emails via SendGrid, on GCP Cloud Run." },
-      { zh: "後台以 Mapbox 編輯路線與檢查點，記錄參賽者成績。", en: "Back-office edits routes and checkpoints on Mapbox and tracks participant results." },
-    ],
-    techs: ["Next", "Express", "Sequelize", "Stripe", "Mapbox GL", "Puppeteer"],
-    href: "https://event.coastaltrailchallenge.hk",
-    image: "/images/work/trailwatch-event.png",
-  },
-  {
     slug: "ehs",
-    title: "一線通 管家易",
+    title: "一線通管家易",
     category: ["cms"],
     description: {
       zh: "長者社區照顧服務平台的企業級後台管理系統，涵蓋訂單、客戶、服務人員與電商管理。",
@@ -176,23 +164,8 @@ export const projects: Project[] = [
       { zh: "Material UI 統一設計系統，支援多語系 (i18next) 與資料匯入匯出。", en: "Unified Material UI design system with i18n and CSV/Excel import-export." },
     ],
     techs: ["Next", "React", "Redux Toolkit", "Material UI", "i18next", "Axios"],
+    href: "https://www.schsa.org.hk/tc/",
     image: "/images/work/ehs.png",
-  },
-  {
-    slug: "chinachem-estaffcard",
-    title: "Chinachem e-Staffcard",
-    category: ["web", "backend"],
-    description: {
-      zh: "中化集團員工電子卡系統，提供動態 QR 員工證與值班餐配額查詢，支援多品牌租戶。",
-      en: "Chinachem staff e-card system — dynamic QR staff cards and duty-meal quota lookup, with multi-tenant brand support.",
-    },
-    highlights: [
-      { zh: "Express + Pug 全端，Sequelize／MySQL 員工名冊，SAML 單一登入。", en: "Full-stack Express + Pug with a Sequelize/MySQL staff registry and SAML SSO." },
-      { zh: "以阿里雲 KMS 非對稱加密產生 24 小時有效的動態 QR 員工證。", en: "Dynamic 24-hour QR staff cards encrypted via Aliyun KMS." },
-      { zh: "多品牌租戶（中化／麗思／松齡）單一程式碼庫，串接值班餐配額 API。", en: "Multi-tenant (Chinachem/Nina/Pine Care) from one codebase, integrating a duty-meal quota API." },
-    ],
-    techs: ["Express", "Pug", "Sequelize", "MySQL", "SAML", "Tailwind"],
-    image: "/images/work/chinachem-estaffcard.png",
   },
   {
     slug: "mindbeauty",
@@ -213,7 +186,7 @@ export const projects: Project[] = [
   },
   {
     slug: "bondlvl",
-    title: "債券通 BondLvl",
+    title: "債券通",
     category: ["web"],
     description: {
       zh: "香港債券搜尋與查詢平台，由原生 App 移植到 Web。",
@@ -225,7 +198,7 @@ export const projects: Project[] = [
       { zh: "以 Vuex 模組化管理資料，支援繁／簡／英三語 (vue-i18n)。", en: "Modular Vuex data flow with trilingual support (Traditional/Simplified Chinese, English) via vue-i18n." },
     ],
     techs: ["Vue-CLI", "Vuex", "Bulma", "vue-i18n", "Google Ads", "Axios"],
-    // href: "https://www.bondlvl.com/",
+    href: "https://www.chinabondconnect.com/sc/index.html",
     image: "/images/work/bond.png",
   },
   {
