@@ -4,7 +4,7 @@
   <a href="https://github.com/samlin1122"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="mailto:zhlin1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zhlin1122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://samlin1122.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://samlin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ### Senior Frontend Developer · Backend & AI Hands-on
